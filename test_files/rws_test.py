@@ -30,3 +30,4 @@ ax.plot(*walks)
 ax.plot3D(walks[0][0],walks[1][0],walks[2][0],marker='o',color='black')
 ax.plot3D(walks[0][-1],walks[1][-1],walks[2][-1],marker='o',color='red')
 plt.show()
+#comentario
